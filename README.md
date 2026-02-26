@@ -12,8 +12,8 @@ Click below to view the live report:
 ---
 
 ## 📑 Table of Contents
-- [Executive Summary](#executive-summary)
-- [Context & Stakeholders](#context--stakeholders)
+- [Executive Summary](#-executive-summary)
+- [Context & Stakeholders](#-context--stakeholders)
 - [Business Problem](#business-problem)
 - [Business Goals](#business-goals)
 - [Tools & Skills](#tools--skills)
